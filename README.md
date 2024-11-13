@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamil-ahmed67&show_icons=true&locale=en&layout=compact" alt="kamil-ahmed67" /></p>
+<p><img align="left" src="https://github.com/Kamil-Ahmed67" alt="kamil-ahmed67" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamil-ahmed67&show_icons=true&locale=en" alt="kamil-ahmed67" /></p>
 
