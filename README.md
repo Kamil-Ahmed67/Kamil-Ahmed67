@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kamil-ahmed67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamil-ahmed67/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kamil-ahmed67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamil-ahmed67/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100020134334908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100020134334908" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/nabilahmednasa/?fbclid=iwy2xjawghvzvlehrua2flbqixmaabhtqt3vreqt2qxw987z1rjrwxhbqvfsa_d1eixfqihzjc2rlf8qdn7zsugg_aem_wbob6o-mjtuavr0lytdira#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nabilahmednasa/?fbclid=iwy2xjawghvzvlehrua2flbqixmaabhtqt3vreqt2qxw987z1rjrwxhbqvfsa_d1eixfqihzjc2rlf8qdn7zsugg_aem_wbob6o-mjtuavr0lytdira#" height="30" width="40" /></a>
 </p>
@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </p>
-<p><img align="left" src="https://github.com/Kamil-Ahmed67" alt="kamil-ahmed67" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamil-ahmed67&show_icons=true&locale=en&layout=compact" alt="kamil-ahmed67" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamil-ahmed67&show_icons=true&locale=en" alt="kamil-ahmed67" /></p>
 
