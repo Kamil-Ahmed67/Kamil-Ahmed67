@@ -45,5 +45,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamil-ahmed67&show_icons=true&locale=en&layout=compact" alt="kamil-ahmed67" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamil-ahmed67&show_icons=true&locale=en" alt="kamil-ahmed67" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamil-ahmed67&" alt="kamil-ahmed67" /></p>
