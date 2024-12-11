@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamil-ahmed67&label=Profile%20views&color=0e75b6&style=flat" alt="kamil-ahmed67" /> </p>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **React JS, Next JS**
 
-- 🌱 I’m currently exploring **Node JS, Next JS,ASP.NET**
+- 🌱 I’m currently exploring **Node JS, ASP.NET**
 
 - 👯 I’m looking to collaborate on **fully functional web application**
 
