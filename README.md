@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil Ahmed</h1>
-<h3 align="center">A dedicated and enthusiastic programmar & web developer from Bangladesh</h3>
+<h3 align="center">A dedicated and enthusiastic software & web developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamil-ahmed67&label=Profile%20views&color=0e75b6&style=flat" alt="kamil-ahmed67" /> </p>
