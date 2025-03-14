@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **fully functional web application**
 
-- 💬 Ask me about **JavaScript,React,Java,C#**
+- 💬 Ask me about **JavaScript,React JS,Node JS,Java,C#**
 
 - 📫 How to reach me **kamil.67ahmed@gmail.com**
 
