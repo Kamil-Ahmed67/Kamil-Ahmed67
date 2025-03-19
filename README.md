@@ -7,9 +7,7 @@
 - 🔭 I’m currently working on **React JS, Next JS**
 
 - 🌱 I’m currently exploring **Node JS, ASP.NET**
-
-- 👯 I’m looking to collaborate on **fully functional web application**
-
+  
 - 💬 Ask me about **JavaScript,React JS,Node JS,Java,C#**
 
 - 📫 How to reach me **kamil.67ahmed@gmail.com**
