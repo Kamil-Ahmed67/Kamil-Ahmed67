@@ -8,9 +8,8 @@
 
 - 🌱 I’m currently exploring **Node JS, ASP.NET**
   
-- 💬 Ask me about **JavaScript,React JS,Node JS,Java,C#**
+- 💬 Ask me about **ASP .NET,JavaScript,React JS,Node JS,Java,C#**
 
-- 📫 How to reach me **kamil.67ahmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
