@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kamil Ahmed</h1>
-<h3 align="center">A dedicated and enthusiastic software & web developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<div align="center">
+<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1500&color=0E75B6&center=true&vCenter=true&repeat=true&width=500&height=60&lines=I+am+Kamil+Ahmed" alt="I am Kamil Ahmed" />
+</a>
+<p>Software &amp; Web Developer &nbsp;|&nbsp; Bangladesh</p>
+</div>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamil-ahmed67&label=Profile%20views&color=0e75b6&style=flat" alt="kamil-ahmed67" /> </p>
 
@@ -40,6 +45,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamil-ahmed67&show_icons=true&locale=en&layout=compact" alt="kamil-ahmed67" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamil-ahmed67&show_icons=true&locale=en" alt="kamil-ahmed67" /></p>
