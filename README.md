@@ -45,3 +45,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </p>
+<h2 id="stats">📊 GitHub Stats</h2>
+ 
+<div align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamil-ahmed67&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<br>
