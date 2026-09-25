@@ -48,6 +48,6 @@
 <h2 id="stats">📊 GitHub Stats</h2>
  
 <div align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamil-ahmed67&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamil-ahmed67&theme=tokyonight&hide_border=false&background=00000000" alt="GitHub Streak" />
 </div>
 <br>
